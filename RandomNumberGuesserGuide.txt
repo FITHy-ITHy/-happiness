@@ -1,0 +1,34 @@
+Welcome to the Random Number Guesser Game! 
+You may view this as a waste of time (as the 
+probability of you guessing any number correct 
+is really low), it's a project I wanted to 
+work on to test my MATLAB skills! 
+So without further ado, allow me to 
+guide you through the very simple... 
+... and brutal... Random Number Guesser Game! 
+
+Choosing Difficulty: 
+There are three base difficulties the game has: 
+Easy, where the random number is between 0 and 10 
+Medium, where the random number is between 0 and 100 
+Hard, where the random number is between 0 and 1000 
+The game is case sensitive, ensure to type "Easy" 
+and not "easy" or anything else for that matter.
+
+Guess the Number: 
+After the difficulty has been chosen, you will have
+three, and only three guesses to check for the correct answer. 
+You'll quickly learn the consequences of getting 
+a correct, incorrect, or invalid value.
+
+Replay: 
+After winning or losing (most likely losing), 
+you will be asked whether or not you'd like to 
+try again. This will require a new difficulty 
+and a new number. You only get three chances!
+Be sure to play them wisely!
+If you choose No, since you're likely a loser, 
+you'll simply be returned back to the main menu. 
+
+Now, no more questions! It's time to put on your
+thinking caps and start guessing random numbers!
